@@ -1,0 +1,4 @@
+- text ini sebagai percobaan dan dibuat di komputer yang kemudian akan di upload ke dalam github menggunakan perintah :
+git add -> untuk menmbah data atau file
+git commit -m -> untuk menambah tanda atau komentar
+git push -u origin master -> untuk memastikan file masuk kedalam repo
