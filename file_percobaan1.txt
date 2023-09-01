@@ -2,3 +2,5 @@
 git add -> untuk menmbah data atau file
 git commit -m -> untuk menambah tanda atau komentar
 git push -u origin master -> untuk memastikan file masuk kedalam repo
+git config --global user.name -> untuk memasukkan settingan
+git init -> digunakan, jika ingin komputer dengan terhubung dan biasa digunakan ketika akan melakukan remote
